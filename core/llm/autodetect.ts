@@ -61,6 +61,7 @@ const PROVIDER_SUPPORTS_IMAGES: ModelProvider[] = [
 ];
 
 const MODEL_SUPPORTS_IMAGES: string[] = [
+  "llama3.1",
   "llava",
   "gpt-4-turbo",
   "gpt-4o",
